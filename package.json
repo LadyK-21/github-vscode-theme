@@ -87,7 +87,7 @@
     "@primer/primitives": "7.1.1",
     "chroma-js": "^2.1.2",
     "color": "^3.1.2",
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.17",
     "vsce": "^1.100.1"
   },
   "scripts": {
