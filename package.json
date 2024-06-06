@@ -87,7 +87,7 @@
     "chroma-js": "^2.1.2",
     "color": "^3.1.2",
     "nodemon": "^2.0.3",
-    "vsce": "^1.100.1"
+    "vsce": "^2.9.0"
   },
   "scripts": {
     "start": "nodemon --watch src src/index.js",
